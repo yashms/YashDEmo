@@ -1,7 +1,7 @@
 # Etiquette for those using this repo 
   
 ## Branching practices 
-1. [GitFlow branching]
+1. [GitFlow branching](GitFlow.md)
 2. GitHubFlow 
 3. Trunk branching 
   
